@@ -13,3 +13,7 @@
 	1-$npm install
 	2-$node app.js
 	
+
+## Refrences
+
+	* https://www.npmjs.com/package/node-openssl-p12
