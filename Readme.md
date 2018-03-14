@@ -17,3 +17,6 @@
 ## Refrences
 
 	* https://www.npmjs.com/package/node-openssl-p12
+	* https://stackoverflow.com/questions/9497719/extract-public-private-key-from-pkcs12-file-for-later-use-in-ssh-pk-authenticati
+	* http://nodejs.cn/doc/node/tls.html#tls_tls_createserver_options_secureconnectionlistener
+	* https://stackoverflow.com/questions/24392571/node-js-crypto-js-pfx-header-too-long
