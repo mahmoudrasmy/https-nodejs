@@ -2,9 +2,9 @@
 
 ## Pre-requistes
 - Install nodejs
- -$sudo apt-get update
- -$sudo apt-get install nodejs
- -$sudo apt-get install npm
+ - $sudo apt-get update
+ - $sudo apt-get install nodejs
+ - $sudo apt-get install npm
 	
 - Download and install OpenSSL https://www.openssl.org/source/
 - Generate the certificate and the key using the below commands
